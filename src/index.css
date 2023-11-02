@@ -1,0 +1,9 @@
+body {
+  background-color: #e3f2fd;
+}
+
+:root {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
